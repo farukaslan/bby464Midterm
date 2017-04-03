@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DENEMEDB>
+<YAZARLAR>   
+    <yazar>
+        <yazarID>101</yazarID>  
+        <yazarAd>Adalet</yazarAd>
+        <yazarSoyadi>Ağaoğlu</yazarSoyadi>
+        <dogumYili>1929</dogumYili>
+    </yazar>
+    <yazar>
+        <yazarID>102</yazarID>
+        <yazarAd>Alev</yazarAd>
+        <yazarSoyadi>Alatlı</yazarSoyadi>
+        <dogumYili>1944</dogumYili>
+    </yazar>
+    <yazar>
+        <yazarID>103</yazarID>
+        <yazarAd>Sabahattin</yazarAd>
+        <yazarSoyadi>Ali</yazarSoyadi>
+        <dogumYili>1907</dogumYili>
+    </yazar>
+    <yazar>
+        <yazarID>104</yazarID>
+        <yazarAd>Anthony</yazarAd>
+        <yazarSoyadi>Burgess</yazarSoyadi>
+        <dogumYili>1917</dogumYili>
+    </yazar>
+    <yazar>
+        <yazarID>105</yazarID>
+        <yazarAd>Honoré de</yazarAd>
+        <yazarSoyadi>Balzac</yazarSoyadi>
+        <dogumYili>1799</dogumYili>
+    </yazar>
+</YAZARLAR>
+</DENEMEDB>
