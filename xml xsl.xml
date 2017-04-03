@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DENEMEDB>
+<YAZARLAR>   
+    <yazar>
+        <yazarID>101</yazarID>  
+        <yazarAd>Adalet</yazarAd>
+        <yazarSoyadi>Ağaoğlu</yazarSoyadi>
+        <dogumYili>1929</dogumYili>
+    </yazar>
+    <yazar>
+        <yazarID>102</yazarID>
+        <yazarAd>Alev</yazarAd>
+        <yazarSoyadi>Alatlı</yazarSoyadi>
+        <dogumYili>1944</dogumYili>
+    </yazar>
+    <yazar>
+        <yazarID>103</yazarID>
+        <yazarAd>Sabahattin</yazarAd>
+        <yazarSoyadi>Ali</yazarSoyadi>
+        <dogumYili>1907</dogumYili>
+    </yazar>
+    <yazar>
+        <yazarID>104</yazarID>
+        <yazarAd>Anthony</yazarAd>
+        <yazarSoyadi>Burgess</yazarSoyadi>
+        <dogumYili>1917</dogumYili>
+    </yazar>
+    <yazar>
+        <yazarID>105</yazarID>
+        <yazarAd>Honoré de</yazarAd>
+        <yazarSoyadi>Balzac</yazarSoyadi>
+        <dogumYili>1799</dogumYili>
+    </yazar>
+</YAZARLAR>
+
+<KITAPLAR>
+    <Kitap>
+        <kitapID>201</kitapID>
+        <kitapAdi>Gece Hayatım</kitapAdi>
+        <ISBNno>9786051850771</ISBNno>
+        <baskiTarihi>2016</baskiTarihi>
+        <sayfaSayisi>210</sayfaSayisi>
+    </Kitap>
+    <Kitap>
+        <kitapID>202</kitapID>
+        <kitapAdi>Hadi Gidelim</kitapAdi>
+        <ISBNno>9786051850474</ISBNno>
+        <baskiTarihi>2016</baskiTarihi>
+        <sayfaSayisi>145</sayfaSayisi>
+    </Kitap>
+    <Kitap>
+        <kitapID>203</kitapID>
+        <kitapAdi>Ruh Üşümesi</kitapAdi>
+        <ISBNno>9786051418391</ISBNno>
+        <baskiTarihi>2015</baskiTarihi>
+        <sayfaSayisi>140</sayfaSayisi>
+    </Kitap>
+    <Kitap>
+        <kitapID>204</kitapID>
+        <kitapAdi>Aydınlanma Değil Merhamet</kitapAdi>
+        <ISBNno>9789752896239</ISBNno>
+        <baskiTarihi>2013</baskiTarihi>
+        <sayfaSayisi>620</sayfaSayisi>
+    </Kitap>
+    <Kitap>
+        <kitapID>205</kitapID>
+        <kitapAdi>Aydın Despotizmi</kitapAdi>
+        <ISBNno>9786051416083</ISBNno>
+        <baskiTarihi>2016</baskiTarihi>
+        <sayfaSayisi>70</sayfaSayisi>
+    </Kitap>
+    <Kitap>
+        <kitapID>206</kitapID>
+        <kitapAdi>Yaseminler Tüter mi, Hâlâ?</kitapAdi>
+        <ISBNno>9789752893030</ISBNno>
+        <baskiTarihi>2014</baskiTarihi>
+        <sayfaSayisi>224</sayfaSayisi>
+    </Kitap>
+    <Kitap>
+        <kitapID>207</kitapID>
+        <kitapAdi>Kürk Mantolu Madonna</kitapAdi>
+        <ISBNno>9789753638027</ISBNno>
+        <baskiTarihi>2017</baskiTarihi>
+        <sayfaSayisi>163</sayfaSayisi>  
+    </Kitap>
+    <Kitap>
+        <kitapID>208</kitapID>
+        <kitapAdi>Kuyucaklı Yusuf</kitapAdi>
+        <ISBNno>978975080001X</ISBNno>
+        <baskiTarihi>2017</baskiTarihi>
+        <sayfaSayisi>222</sayfaSayisi>
+    </Kitap>
+    <Kitap>
+        <kitapID>209</kitapID>
+        <kitapAdi>İçimizdeki Şeytan</kitapAdi>
+        <ISBNno>9789753638037</ISBNno>
+        <baskiTarihi>2017</baskiTarihi>
+        <sayfaSayisi>420</sayfaSayisi>
+    </Kitap>
+    <Kitap>
+        <kitapID>210</kitapID>
+        <kitapAdi>Doktor Hastalandı</kitapAdi>
+        <ISBNno>9786053327400</ISBNno>
+        <baskiTarihi>2016</baskiTarihi>
+        <sayfaSayisi>264</sayfaSayisi>
+    </Kitap>
+    <Kitap>
+        <kitapID>211</kitapID>
+        <kitapAdi>Otomatik Portakal</kitapAdi>
+        <ISBNno>9789944885706</ISBNno>
+        <baskiTarihi>2009</baskiTarihi>
+        <sayfaSayisi>172</sayfaSayisi>
+    </Kitap>
+    <Kitap>
+        <kitapID>212</kitapID>
+        <kitapAdi>Bir Elin Sesi Var</kitapAdi>
+        <ISBNno>9786053322412</ISBNno>
+        <baskiTarihi>2014</baskiTarihi>
+        <sayfaSayisi>200</sayfaSayisi>
+    </Kitap>
+    <Kitap>
+        <kitapID>213</kitapID>
+        <kitapAdi>Yaşamda Bir Başlangıç</kitapAdi>
+        <ISBNno>9789750802802</ISBNno>
+        <baskiTarihi>2010</baskiTarihi>
+        <sayfaSayisi>172</sayfaSayisi>
+    </Kitap>
+    <Kitap>
+        <kitapID>214</kitapID>
+        <kitapAdi>Lanetli Çocuk</kitapAdi>
+        <ISBNno>9789750818295</ISBNno>
+        <baskiTarihi>2017</baskiTarihi>
+        <sayfaSayisi>212</sayfaSayisi>    
+    </Kitap>
+    <Kitap>
+        <kitapID>215</kitapID>
+        <kitapAdi>Louis Lambert</kitapAdi>
+        <ISBNno>6053601043</ISBNno>
+        <baskiTarihi>2011</baskiTarihi>
+        <sayfaSayisi>129</sayfaSayisi>
+    </Kitap>
+</KITAPLAR>
+    
+<YAYINCILAR>
+    <Yayinci>
+        <yayinciID>301</yayinciID>
+        <yayinciAdi>Everest Yayınları</yayinciAdi>
+        <adres>Ticarethane Sok. No: 15 34410 Cağaloğlu İstanbul</adres>
+        <e_posta>info@everestyayinlari.com</e_posta>
+    </Yayinci>
+    <Yayinci>
+        <yayinciID>302</yayinciID>
+        <yayinciAdi>Yapı Kredi Yayınları</yayinciAdi>
+        <adres>Müeyyetzade Mahallesi, Kemeraltı Caddesi, No: 4</adres>
+        <e_posta>ykkultur@ykykultur.com.tr</e_posta>
+    </Yayinci>
+    <Yayinci>
+        <yayinciID>303</yayinciID>
+        <yayinciAdi>İş Bankası Kültür Yayınları</yayinciAdi>
+        <adres>İstiklal Caddesi Meşelik Sokak No: 2 Beyoğlu / İstanbul</adres>
+        <e_posta>bilgi@iskultur.com.tr</e_posta>
+    </Yayinci>
+</YAYINCILAR>    
+    
+</DENEMEDB>
