@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc= "http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Gece Hayatım</dc:title>
+    <dc:creator>Adalet Ağaoğlu</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:publisher>Everest Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>210 sayfa</dc:description>
+</rdf:Description>   
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Hadi Gidelim</dc:title>
+    <dc:creator>Adalet Ağaoğlu</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:publisher>Everest Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>145 sayfa</dc:description>
+</rdf:Description>   
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Ruh Üşümesi</dc:title>
+    <dc:creator>Adalet Ağaoğlu</dc:creator>
+    <dc:date>2015</dc:date>
+    <dc:publisher>Everest Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>140 sayfa</dc:description>
+</rdf:Description>   
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Aydınlanma Değil Merhamet</dc:title>
+    <dc:creator>Alev Alatlı</dc:creator>
+    <dc:date>2013</dc:date>
+    <dc:publisher>Everest Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>620 sayfa</dc:description>
+</rdf:Description>       
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Aydın Despotizmi</dc:title>
+    <dc:creator>Alev Alatlı</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:publisher>Everest Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>70 sayfa</dc:description>
+</rdf:Description>
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Yaseminler Tüter mi, Hâlâ?</dc:title>
+    <dc:creator>Alev Alatlı</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:publisher>Everest Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>224 sayfa</dc:description>
+</rdf:Description>
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Kürk Mantolu Madonna</dc:title>
+    <dc:creator>Sabahattin Ali</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>163 sayfa</dc:description>
+</rdf:Description>   
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Kuyucaklı Yusuf</dc:title>
+    <dc:creator>Sabahattin Ali</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>222 sayfa</dc:description>
+</rdf:Description> 
+<rdf:Description rdf:about="Kitap">
+    <dc:title>İçimizdeki Şeytan</dc:title>
+    <dc:creator>Sabahattin Ali</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>420 sayfa</dc:description>
+</rdf:Description>     
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Doktor Hastalandı</dc:title>
+    <dc:creator>Anthony Burgess</dc:creator>
+    <dc:date>2016</dc:date>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>264 sayfa</dc:description>
+</rdf:Description>     
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Otomatik Portakal</dc:title>
+    <dc:creator>Anthony Burgess</dc:creator>
+    <dc:date>2009</dc:date>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>172 sayfa</dc:description>
+</rdf:Description>
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Bir Elin Sesi Var</dc:title>
+    <dc:creator>Anthony Burgess</dc:creator>
+    <dc:date>2014</dc:date>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>200 sayfa</dc:description>
+</rdf:Description>
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Yaşamda Bir Başlangıç</dc:title>
+    <dc:creator>Honoré de Balzac</dc:creator>
+    <dc:date>2010</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>172 sayfa</dc:description>
+</rdf:Description>
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Lanetli Çocuk</dc:title>
+    <dc:creator>Honoré de Balzac</dc:creator>
+    <dc:date>2017</dc:date>
+    <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>112 sayfa</dc:description>
+</rdf:Description>
+<rdf:Description rdf:about="Kitap">
+    <dc:title>Louis Lambert</dc:title>
+    <dc:creator>Honoré de Balzac</dc:creator>
+    <dc:date>2011</dc:date>
+    <dc:publisher>Türkiye İş Bankası Kültür Yayınları</dc:publisher>
+    <dc:language>Türkçe</dc:language>  
+    <dc:Format>fiziksel</dc:Format>
+    <dc:description>129 sayfa</dc:description>
+</rdf:Description>    
+    
+</rdf:RDF>
